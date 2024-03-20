@@ -1,0 +1,39 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .food-item {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .food-name {
+    font-size: 1.5rem;
+    color: #ff5733;
+    margin-bottom: 5px;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.4;
+  }
+  
